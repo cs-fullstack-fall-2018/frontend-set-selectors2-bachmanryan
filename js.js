@@ -25,3 +25,8 @@ geth1Element[0].style.color = "blue";
 // Change the color of the last p tag to yellow
 var changeTheLastpTag = document.getElementsByTagName("p");
 changeTheLastpTag[3].style.color = "yellow";
+
+/*
+
+All correct. From Kenn
+*/
